@@ -20,7 +20,7 @@ body{
 	position:relative;
 	overflow:hidden;
 }
-.ball{
+.eyeball{
 	width:40px;
 	height:40px;
 	background:#000;
